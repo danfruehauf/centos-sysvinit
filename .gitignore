@@ -1,1 +1,3 @@
-packages/*.src.rpm
+packages/*/*.src.rpm
+.vagrant
+.*.swp
